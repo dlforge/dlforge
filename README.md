@@ -4,8 +4,6 @@
 
 主要使用 C#/.NET 做后端开发，关注系统设计、工程实践和开发效率。
 
-- 💬 我正在写的博客：http://denglei.me
-
 <!--
 **dlforge/dlforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
